@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc>
+  <testsuiteentryhierarchy>
+    <flatlistofchildren>
+      <modulegroups
+      name="Account_Users"
+      id="309f40b3-a597-4d9d-8392-abaf6c35ac84"/>
+    </flatlistofchildren>
+    <childhierarchy>
+      <modulegroups
+      name="Account_Users"
+      id="309f40b3-a597-4d9d-8392-abaf6c35ac84"/>
+    </childhierarchy>
+  </testsuiteentryhierarchy>
+</modulegroupdoc>

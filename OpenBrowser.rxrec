@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="a9097249-6d29-4035-8515-1a46e97bb459"
+mode="Desktop">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="OpenBrowser"
+	namespace="Account_Users">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+		<openwebsiterecorditem
+		args=""
+		browser="chrome"
+		clearcache="False"
+		clearcookies="False"
+		enabled="True"
+		incognito="False"
+		instrument="True"
+		killexisting="False"
+		maximized="False"
+		optional="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<url>
+				http://obsidian-staging.conde.io/
+			</url>
+		</openwebsiterecorditem>
+	</recorditems>
+	<repository
+	id="66dfd33f-c411-4b0c-a1c5-47e64ea9f29c"
+	name="Account_UsersRepository"
+	relativepath="Account_UsersRepository.rxrep">
+		<codegen
+		classname="Account_UsersRepository"
+		namespace="Account_Users">
+		</codegen>
+		<rootfolder
+		id="c5d46546-af41-4678-bfa5-b03389b45d39"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		OpenBrowser.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>
